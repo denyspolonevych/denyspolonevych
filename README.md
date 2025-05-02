@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi there! 
 
-<!--
-**denyspolonevych/denyspolonevych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Denys, an aspiring **IT Specialist** passionate about quality and precision in tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus  
+Working hard on improving my skills to become a strong IT Specialist.
+
+### 🌱 Learning Journey  
+Currently diving into the world of **QA (Quality Assurance)** — manual testing, bug tracking, and automation basics.
+
+### 🤔 Looking For  
+Nothing at the moment — I enjoy solving challenges independently 💪
+
+### 📫 Contact Me  
+✉️ denyspolonevych@ukr.net
+
+### 😄 Pronouns  
+**he/him**
